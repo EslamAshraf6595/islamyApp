@@ -1,0 +1,16 @@
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/images/Splash Screen.png
+  color_dark: "#121212"
+  image_dark: assets/images/Splash Screen.png
+
+  android_12:
+    image: assets/images/Splash Screen.png
+    icon_background_color: "#ffffff"
+    image_dark: assets/images/Splash Screen.png
+    icon_background_color_dark: "#121212"
+
+  fullscreen: true
+  fill: true  # This ensures the image fills the screen
+
+  web: false
